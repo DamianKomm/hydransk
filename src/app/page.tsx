@@ -42,7 +42,7 @@ export default function Home() {
 
 						<a
 							href="sms:+48794300560"
-							className="rounded-full border border-slate-300 px-6 py-4 text-center text-lg font-semibold transition hover:bg-slate-50"
+							className="rounded-full border border-slate-300 px-6 py-4 text-center text-lg font-semibold text-slate-900 transition hover:bg-slate-50"
 						>
 							Wyślij SMS
 						</a>
@@ -88,6 +88,7 @@ export default function Home() {
 					</a>
 				</div>
 			</section>
+
 			<section className="mx-auto max-w-6xl px-4 pb-4">
 				<div className="grid gap-4 md:grid-cols-3">
 					<div className="rounded-2xl border border-slate-200 bg-white p-5">
@@ -159,7 +160,7 @@ export default function Home() {
 					</h2>
 
 					<p className="mt-4 text-lg text-blue-100">
-						Zadzwoń teraz lub napisz wiadomość. Szybko wrócimy z odpowiedzią.
+						Zadzwoń teraz lub wyślij SMS. Szybko wrócimy z odpowiedzią.
 					</p>
 
 					<div className="mt-8 flex flex-col justify-center gap-4 sm:flex-row">
@@ -171,10 +172,10 @@ export default function Home() {
 						</a>
 
 						<a
-							href="mailto:kontakt@leadaroapp.com"
+							href="sms:+48794300560"
 							className="rounded-full border border-white/40 px-6 py-4 text-lg font-semibold text-white transition hover:bg-white/10"
 						>
-							✉️ kontakt@leadaroapp.com
+							💬 Wyślij SMS
 						</a>
 					</div>
 				</div>
