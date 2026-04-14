@@ -34,14 +34,14 @@ export default function Home() {
 
 					<div className="mt-8 flex flex-col gap-4 sm:flex-row">
 						<a
-							href="tel:+48794300560"
+							href="tel:+48794164707"
 							className="rounded-full bg-blue-600 px-6 py-4 text-center text-lg font-semibold text-white shadow-sm transition hover:bg-blue-700"
 						>
-							📞 Zadzwoń: +48 794 300 560
+							📞 Zadzwoń: +48 794 164 707
 						</a>
 
 						<a
-							href="sms:+48794300560"
+							href="sms:+48794164707"
 							className="rounded-full border border-slate-300 px-6 py-4 text-center text-lg font-semibold text-slate-900 transition hover:bg-slate-50"
 						>
 							Wyślij SMS
@@ -81,7 +81,7 @@ export default function Home() {
 					</ul>
 
 					<a
-						href="tel:+48794300560"
+						href="tel:+48794164707"
 						className="mt-8 block rounded-full bg-blue-600 px-6 py-4 text-center text-lg font-semibold text-white shadow-sm transition hover:bg-blue-700"
 					>
 						Zadzwoń po pomoc
@@ -165,14 +165,14 @@ export default function Home() {
 
 					<div className="mt-8 flex flex-col justify-center gap-4 sm:flex-row">
 						<a
-							href="tel:+48794300560"
+							href="tel:+48794164707"
 							className="rounded-full bg-white px-6 py-4 text-lg font-semibold text-blue-600 shadow-sm transition hover:bg-slate-100"
 						>
-							📞 +48 794 300 560
+							📞 +48 794 164 707
 						</a>
 
 						<a
-							href="sms:+48794300560"
+							href="sms:+48794164707"
 							className="rounded-full border border-white/40 px-6 py-4 text-lg font-semibold text-white transition hover:bg-white/10"
 						>
 							💬 Wyślij SMS
@@ -182,7 +182,7 @@ export default function Home() {
 			</section>
 
 			<a
-				href="tel:+48794300560"
+				href="tel:+48794164707"
 				className="fixed bottom-4 right-4 z-50 rounded-full bg-blue-600 px-5 py-4 text-sm font-semibold text-white shadow-lg transition hover:bg-blue-700 md:hidden"
 			>
 				📞 Zadzwoń
